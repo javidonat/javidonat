@@ -55,7 +55,6 @@ Soy estudiante de segundo curso de DAW con una base previa en sistemas y redes (
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416B?style=flat&logo=virtualbox&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
