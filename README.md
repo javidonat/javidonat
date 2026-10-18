@@ -14,7 +14,7 @@
 Soy estudiante de segundo curso de DAW con una base previa en sistemas y redes (SMR), lo que me da una visión completa de cómo funcionan las aplicaciones, desde el código hasta la infraestructura donde se ejecutan. Aprendo construyendo proyectos reales y ya tengo experiencia en un entorno profesional creando páginas web para empresas.
 
 - 🔭 Trabajando ahora en: **[planVLC](https://github.com/javidonat/PlanVLC)**
-- 🌱 Aprendiendo este curso: **React, Vue y PostgreSQL**
+- 🌱 Aprendiendo este curso: **Angular, React, Vue y PostgreSQL**
 - 💬 Pregúntame sobre: desarrollo web, PHP, JavaScript, Java, Angular, bases de datos y sistemas
 
 ---
