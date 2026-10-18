@@ -2,7 +2,7 @@
 
 ### Estudiante de Desarrollo de Aplicaciones Web (DAW) | Técnico en Sistemas Microinformáticos y Redes
 
-🎓 2.º DAW en el **IES l'Estació** · 🗣️ Valencià · Castellano
+🎓 2.º DAW en el **IES l'Estació** · 🗣️ Castellano · Valencià
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javier7donat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javidonat)
