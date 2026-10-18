@@ -14,8 +14,8 @@
 Soy estudiante de segundo curso de DAW con una base previa en sistemas y redes (SMR), lo que me da una visión completa de cómo funcionan las aplicaciones, desde el código hasta la infraestructura donde se ejecutan. Aprendo construyendo proyectos reales y ya tengo experiencia en un entorno profesional creando páginas web para empresas.
 
 - 🔭 Trabajando ahora en: **[planVLC](https://github.com/javidonat/PlanVLC)**
-- 🌱 Aprendiendo este curso: **Angular, React, Vue y PostgreSQL**
-- 💬 Pregúntame sobre: desarrollo web, PHP, JavaScript, Java, Angular, bases de datos y sistemas
+- 🌱 Aprendiendo este curso: **TypeScript, Angular, React, Vue y PostgreSQL**
+- 💬 Pregúntame sobre: desarrollo web, PHP, JavaScript, TypeScript, Java, Angular, bases de datos y sistemas
 
 ---
 
@@ -25,6 +25,7 @@ Soy estudiante de segundo curso de DAW con una base previa en sistemas y redes (
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -69,8 +70,8 @@ Soy estudiante de segundo curso de DAW con una base previa en sistemas y redes (
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [planVLC](https://github.com/javidonat/PlanVLC) | Aplicación para descubrir planes en Valencia para cualquier momento: tardeos, partidos de fútbol, planes de playa, planes de invierno, fiestas nocturnas y más. *En desarrollo, 2.º DAW* | Angular, MongoDB, Node.js |
-| [LaJaula](https://github.com/javidonat/lajaula) | Plataforma tipo "entradas" para eventos de MMA, con base de datos y gestión de eventos. *1.º DAW* | PHP, MySQL, HTML, CSS |
+| [planVLC](https://github.com/javidonat/PlanVLC) | Aplicación para descubrir planes en Valencia para cualquier momento: tardeos, partidos de fútbol, planes de playa, planes de invierno, fiestas nocturnas y más. *En desarrollo, 2.º DAW* | Angular, TypeScript, JavaScript, Node.js, MongoDB |
+| [LaJaula](https://github.com/javidonat/lajaula) | Plataforma tipo "entradas" para eventos de MMA, con base de datos y gestión de eventos. *1.º DAW* | PHP, JavaScript, MySQL, HTML, CSS |
 
 ---
 
