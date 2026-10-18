@@ -69,7 +69,7 @@ Soy estudiante de segundo curso de DAW con una base previa en sistemas y redes (
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [planVLC](https://github.com/javidonat/PlanVLC) | Aplicación para descubrir planes en Valencia para cualquier momento: tardeos, partidos de fútbol, planes de playa, planes de invierno, fiestas nocturnas y más. *En desarrollo, 2.º DAW* | Angular, MongoDB |
+| [planVLC](https://github.com/javidonat/PlanVLC) | Aplicación para descubrir planes en Valencia para cualquier momento: tardeos, partidos de fútbol, planes de playa, planes de invierno, fiestas nocturnas y más. *En desarrollo, 2.º DAW* | Angular, MongoDB, Node.js |
 | [LaJaula](https://github.com/javidonat/lajaula) | Plataforma tipo "entradas" para eventos de MMA, con base de datos y gestión de eventos. *1.º DAW* | PHP, MySQL, HTML, CSS |
 
 ---
